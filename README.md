@@ -1,11 +1,21 @@
-# Introducing [Astro Micro 🔬](https://astro-micro.vercel.app/)
+# Dong Yuhao's Personal Website
 
-Astro Micro is an accessible theme for Astro. It's a fork of [Mark Horn's](https://github.com/markhorn-dev) popular theme [Astro Nano](https://astro-nano-demo.vercel.app/). Like Nano, Micro comes with zero frameworks installed.
+Source for my personal site and blog, live at [dyhspace.top](https://dyhspace.top).
 
-Micro adds features like [Pagefind](https://pagefind.app) for search, [Giscus](https://giscus.app) for comments, and more. For a full list of changes, see this [blog post](https://astro-micro.vercel.app/blog/00-micro-changelog).
+I'm a postgraduate student at the University of Malaya. This is where I keep my papers, notes, projects, and writing.
 
-Micro still comes with everything great about Nano — full type safety, a sitemap, an RSS feed, and Markdown + MDX support. Styled with TailwindCSS and preconfigured with system, light, and dark themes.
+## Built with
 
----
+- [Astro](https://astro.build) — static site framework, zero JS by default
+- [Tailwind CSS](https://tailwindcss.com) — styling
+- [Pagefind](https://pagefind.app) — search
+- Deployed on [Cloudflare](https://workers.cloudflare.com)
 
-![astro-micro](https://github.com/user-attachments/assets/fc9b55b9-53e5-4933-9d23-936e1c61e6c2)
+Based on the [Astro Micro](https://github.com/trevortylerlee/astro-micro) theme by
+[Trevor Lee](https://github.com/trevortylerlee), a fork of
+[Astro Nano](https://github.com/markhorn-dev/astro-nano) by
+[Mark Horn](https://github.com/markhorn-dev).
+
+## License
+
+Theme under the [MIT License](LICENSE). Content © Dong Yuhao.
